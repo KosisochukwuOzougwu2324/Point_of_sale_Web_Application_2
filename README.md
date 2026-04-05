@@ -1,1 +1,0 @@
-# Point_of_sale_Web_Application_2
