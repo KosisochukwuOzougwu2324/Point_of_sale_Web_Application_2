@@ -1,0 +1,2 @@
+export const API_BASE_URL = 'http://localhost'
+export const STRIPE_PUBLISHABLE_KEY = 'pk_test_51TIwJgFpCucv7zFUAHuaVUeyn5w1NndW2dReZXmNlKrwSSNDeL1Z8juznudNH0ZS1Yr8TQ8NDNW2ZwLOh8UI7ivR00nKO04tVc'
